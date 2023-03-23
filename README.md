@@ -1,5 +1,5 @@
 
-# Indian Sign language Detector
+# Indian Sign language Recognition 
 # Motive 
 Communication is one of the basic requirement for survival in society. Deaf and dumb people communicate among themselves using sign language but normal people find it difficult to understand their language.
 So for that purpose we have developed a software which can interpret the trained signs and depicts with the respective message.
